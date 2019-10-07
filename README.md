@@ -1,4 +1,4 @@
-# Regole Tecniche circa ARGOMENTO DELLE REGOLE TECNICHE
+# Regole Tecniche circa la normalizzazione delle statistiche
 ## Linee Guida AgID ex art. 71 del CAD
 
 Capoverso/i introduttivo/i.
