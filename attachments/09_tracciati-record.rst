@@ -1,9 +1,10 @@
-|AGID - Agenzia per l'Italia Digitale|
+.. _`§A`:
 
-**Tracciato record dei dati statistici dei Gestori PEC, Conservatori e
-dei Prestatori di servizi fiduciari qualificati**
+Tracciato record dei dati statistici dei Gestori PEC, Conservatori e dei Prestatori di servizi fiduciari qualificati
+====================================================================================================================
 
-Documento tecnico - Tracciato record dati statistici
+.. note::
+  Documento tecnico - Tracciato record dati statistici
 
 Versione 1.1 del 02/10/2019
 
@@ -206,6 +207,6 @@ NumGenWebQC   Certificati qualificati per siti WEB generati nel periodo di rifer
    La colonna “Filtro” individua i campi sui quali è possibile agire con
    funzionalità di filtro e ricerca.
 
-.. |AGID - Agenzia per l'Italia Digitale| image:: media/image1.png
-   :width: 2.76261in
-   :height: 0.5849in
+.. discourse::
+
+:topic_identifier: 666
