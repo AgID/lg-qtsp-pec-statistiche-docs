@@ -1,6 +1,25 @@
 document:
-  name: Linee Guida normalizzazione statistiche
+  type: Linee guida
+  name: Linee guida per la normalizzazione delle statistiche erogate da gestori PEC, conservatori, prestatori di servizi fiduciari qualificati
+  short_name: Ll.gg. sulle statistiche PEC conservatori QTSP
+  author: walter-arrighetti
+  contributors:
+    - Gabriele Bocchetta
+    - Stefano Arbia
+    - Walter Arrighetti
+    - Michele d'Amco
+    - Antonio Florio
+    - Stefano Ianniello
+    - Andrea Spallacci
+    - Crisina Valiante
   description: |
     Linee Guida per la normalizzazione dei dati statistici dei servizi erogati dai Gestori PEC, dai Conservatori e dai Prestatori di servizi fiduciari qualificati
   tags:
-    - "SPID"
+    - eIDAS
+    - PEC
+    - conservazione
+    - servizi fiduciari elettronici
+    - SPID
+    - statistiche
+    - GDPR
+  origin: https://github.com/test-lg/test-lg-10
