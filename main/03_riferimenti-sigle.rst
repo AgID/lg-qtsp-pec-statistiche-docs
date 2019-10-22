@@ -1,9 +1,5 @@
 .. _`§2`:
 
-.. discourse::
-
-:topic_identifier: 666
-
 Riferimenti e sigle
 ===================
 
