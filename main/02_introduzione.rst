@@ -1,16 +1,10 @@
-|AGID - Agenzia per l'Italia Digitale|
-.. _`§1`:
-
-.. discourse::
-
-:topic_identifier: 666
+.. _`§2`:
 
 Introduzione
 ============
 
 Scopo
 -----
-
 Le presenti Linee guida hanno lo scopo di normalizzazione i dati
 statistici trasmessi ad Agid nell’ambito degli obblighi previsti per i
 soggetti erogatori di servizi PEC, di Conservazione e di Servizi
@@ -49,7 +43,6 @@ collaborazione dei destinatari delle Linea Guida.
 
 Soggetti destinatari
 --------------------
-
 I soggetti destinatari delle presenti linee guida sono tutti i soggetti
 erogatori dei servizi oggetto delle presenti Linee Guida.
 
