@@ -15,8 +15,6 @@ Dati statistici trasmessi dai Gestori PEC
 
 ====== ============= ================================ ========== ================
 **ID** **Tipologia** **Nome**                         **Rif. §** **Trasmissione**
-                                                                
-                                                      **[TR]**  
 ====== ============= ================================ ========== ================
 P01    Dataset       Statistiche PEC                  TR.1       Quadrimestrale
 P02    Dataset       Indisponibilità del servizio PEC TR.2       Quadrimestrale
@@ -33,8 +31,6 @@ Dati statistici trasmessi dai prestatori di servizi di Conservazione documentale
 
 ====== ============= ============================================== ========== ================
 **ID** **Tipologia** **Nome**                                       **Rif. §** **Trasmissione**
-                                                                              
-                                                                    **[TR]**  
 ====== ============= ============================================== ========== ================
 C01    Dataset       Statistiche servizio Conservazione documentale TR.3       Semestrale
 ====== ============= ============================================== ========== ================
