@@ -1,4 +1,4 @@
-.. _`§7`:
+.. _`§8`:
 
 Trasmissione dei dati statistici
 ================================
