@@ -1,15 +1,9 @@
-# Regole Tecniche circa la normalizzazione delle statistiche
+# Linee Guida per la normalizzazione dei dati statistici dei servizi erogati dai Gestori PEC, dai Conservatori e dai Prestatori di servizi fiduciari qualificati
 ## Linee Guida AgID ex art. 71 del CAD
 
-Capoverso/i introduttivo/i.
+Versione 1.1 del 02/10/2019.
 
-Modificare i file `README.md` e il file `index.rst` affinché contengano la descrizione generale delle Linee Guida e, rispettivamente, l'indice dei contenuti del documento, che può puntare ad altri file RST; si consiglia l'uso di un file RST per ciascun documento separato (ad esempio: documento principale più i suoi Allegati). Documenti particolarmente lunghi possono essere suddivisi usando un file RST per ciascun capitolo.
-
- * Si consiglia di collocare gli eventuali Allegati in una sottocartella dedicata `attachments/`.
- * Si consiglia di collocare gli eventuali file multimediali (e.g. immagini, video, ecc.) in sottocartelle di secondo livello, separate per tipologia (e.g. `images/`, `audio/`, ecc.), all'interno di una sottocartella dedicata `media/`.
- * Si consiglia di collocare gli eventuali esempi di codice o documenti elettronici in una sottocartella dedicata `samples/`, eventualmente separati per tipologia mediante sottocartelle di secondo livello.
-
-## Link al documento e consultazione
+La presente Linea guida – ha lo scopo di normalizzazione i dati statistici trasmessi ad Agid nell’ambito degli obblighi previsti per i soggetti erogatori di servizi PEC, di Conservazione e di Servizi fiduciari qualificati (QTSP), ed è redatta in ottemperanza del decreto legislativo 7 marzo 2005, №82 e successive modifiche e integrazioni (di seguito CAD) e della Determinazione AgID №160 del 2018 recante *Regolamento per l’adozione di linee guida per l’attuazione del Codice dell’Amministrazione Digitale*.
 
 Link al documento *Docs Italia*: https://lg-spid-NOME.readthedocs.io
 
