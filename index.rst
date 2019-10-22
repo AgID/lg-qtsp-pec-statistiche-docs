@@ -36,4 +36,4 @@ Versione Data        Determinazione Tipologia modifica
    main/06_adeguamento-sistema.rst
    main/07_specifiche-tecniche.rst
    main/08_trasmissione-statistiche.rst
-   attachments/tracciati-record.rst
+   attachments/09_tracciati-record.rst
