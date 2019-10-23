@@ -28,13 +28,10 @@ Sommario
 TR.1 Tracciato dati statistici ‒ Servizio PEC
 ---------------------------------------------
 
+.. note::
    ID statistica: **P01**
-
-   Descrizione statistica: Dati statistici PEC
-
-   Statistica aggregata: Sì
-
-   *Dati:*
+   Descrizione statistica: ``Dati statistici PEC``
+   Statistica aggregata: *Sì*
 
 ============= =================================================================================== ======== ========== =============== =================
 **Campo**     **Descrizione**                                                                     **Tipo** **#Digit** **Esempio**     **Filtro**\  [1]_
@@ -60,13 +57,10 @@ VirusUscita   Nr. Virus ricevuti dai propri utenti PEC in msg da inviare        
 TR.2 Tracciato dati statistici ‒ Indisponibilità servizio PEC
 -------------------------------------------------------------
 
+.. note::
    ID statistica: **P02**
-
-   Descrizione statistica: Dati statistici indisponibilità servizi PEC
-
-   Statistica aggregata: Sì
-
-   *Dati:*
+   Descrizione statistica: ``Dati statistici indisponibilità servizi PEC``
+   Statistica aggregata: *Sì*
 
 =============== ============================================================================ ======== ========== =============== =================
 **Campo**       **Descrizione**                                                              **Tipo** **#Digit** **Esempio**     **Filtro**\  [2]_
@@ -100,13 +94,10 @@ SLA             Rispetto degli SLA di cui all’art. 12, commi 3 e 5 del DM 2 no
 TR.3 Tracciato dati statistici ‒ Servizio Conservazione
 -------------------------------------------------------
 
-ID statistica: **C01**
-
-Descrizione statistica: Dati statistici Conservazione
-
-Statistica aggregata: Sì
-
-   *Dati:*
+.. note::
+   ID statistica: **C01**
+   Descrizione statistica: ``Dati statistici Conservazione``
+   Statistica aggregata: *Sì*
 
 ===================== ========================================================================================== ======== ========== =============== =================
 **Campo**             **Descrizione**                                                                            **Tipo** **#Digit** **Esempio**     **Filtro**\  [4]_
@@ -133,17 +124,14 @@ TempoMedioRipristino  Tempo medio di ripristino del servizio (Nr.minuti) per int
 ===================== ========================================================================================== ======== ========== =============== =================
 
 
-.. _`§TR2`:
-TR.2 Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
+.. _`§TR4`:
+TR.4 Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
 ---------------------------------------------------------------------
 
-ID statistica: **QC01**
-
-Descrizione statistica: Dati statistici Conservazione
-
-Statistica aggregata: Sì
-
-*Dati:*
+.. note::
+   ID statistica: **Q01**
+   Descrizione statistica: ``Dati statistici QTSP``
+   Statistica aggregata: *Sì*
 
 ============= =============================================================================================== ======== ========== =============== =================
 **Campo**     **Descrizione**                                                                                 **Tipo** **#Digit** **Esempio**     **Filtro**\  [6]_
