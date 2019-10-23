@@ -24,9 +24,9 @@ Versione Data        Determinazione Tipologia modifica
 ======== =========== ============== =====================================
 
 .. toctree::
+   :caption: Sommario
    :numbered:
    :maxdepth: 3
-   :caption: Sommario
    
    main/01_prefazione.rst
    main/02_introduzione.rst
@@ -36,4 +36,14 @@ Versione Data        Determinazione Tipologia modifica
    main/06_adeguamento-sistema.rst
    main/07_specifiche-tecniche.rst
    main/08_trasmissione-statistiche.rst
+
+.. toctree::
+   :maxdepth: 1
+
+   attachments/09_tracciati-record.rst
+
+.. toctree::
+   :name: allegato_a_toc
+   :hidden:
+
    attachments/09_tracciati-record.rst
