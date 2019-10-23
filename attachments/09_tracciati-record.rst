@@ -3,7 +3,7 @@
 Tracciato record dei dati statistici dei Gestori PEC, Conservatori e dei Prestatori di servizi fiduciari qualificati
 ====================================================================================================================
 
-.. note::
+.. important::
   Documento tecnico - Tracciato record dati statistici
 
 Versione 1.1 del 02/10/2019
