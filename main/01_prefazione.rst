@@ -19,6 +19,7 @@ la cui interpretazione è descritta di seguito.
    lettore può scegliere di applicare o meno senza alcun tipo di
    implicazione la specifica.
 
-.. discourse::
 
-:topic_identifier: 666
+.. forum_italia::
+   :topic_id: 6
+   :scope: document
