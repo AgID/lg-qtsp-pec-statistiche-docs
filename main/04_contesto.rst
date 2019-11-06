@@ -35,6 +35,7 @@ istituito il “Gruppo di Lavoro per l’Emanazione delle Linee Guida per la
 normalizzazione dati statistici PEC, Conservatori e Prestatori di
 servizi fiduciary qualificati (QTSP)”.
 
-.. discourse::
 
-:topic_identifier: 666
+.. forum_italia::
+   :topic_id: 6
+   :scope: document
