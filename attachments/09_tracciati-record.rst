@@ -207,6 +207,7 @@ NumGenWebQC   Certificati qualificati per siti WEB generati nel periodo di rifer
    La colonna “Filtro” individua i campi sui quali è possibile agire con
    funzionalità di filtro e ricerca.
 
-.. discourse::
 
-:topic_identifier: 666
+.. forum_italia::
+   :topic_id: 6
+   :scope: document
