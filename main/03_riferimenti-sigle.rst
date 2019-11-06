@@ -52,6 +52,7 @@ Di seguito si riportano gli acronimi che verranno utilizzati nelle presenti Line
 
 -  **[TR]** Documento: :ref:`§A <Tracciato record dati statistici PEC, QTSP e Conservatori>`.
 
-.. discourse::
 
-:topic_identifier: 666
+.. forum_italia::
+   :topic_id: 6
+   :scope: document
