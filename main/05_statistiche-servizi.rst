@@ -43,6 +43,7 @@ qualificate, è tenuto a trasmettere all’AgID, attraverso il canale
 applicativo dedicato, i *data set* di seguito definiti entro il mese
 successivo al semestre di riferimento.
 
-.. discourse::
 
-:topic_identifier: 666
+.. forum_italia::
+   :topic_id: 6
+   :scope: document
