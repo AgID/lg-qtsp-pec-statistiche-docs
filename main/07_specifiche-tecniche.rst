@@ -20,6 +20,7 @@ servizio oggetto di rilevazione. Il tracciato dei dati è definito
 esclusivamente per la raccolta dei dati statistici e il loro trattamento
 per gli scopi istituzionali di AgID.
 
-.. discourse::
 
-:topic_identifier: 666
+.. forum_italia::
+   :topic_id: 6
+   :scope: document
