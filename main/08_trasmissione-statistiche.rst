@@ -36,6 +36,7 @@ periodo di riferimento:
       di ciascun anno rispettivamente per il **primo**, il **secondo** e
       il **terzo** **quadrimestre**.
 
-.. discourse::
 
-:topic_identifier: 666
+.. forum_italia::
+   :topic_id: 6
+   :scope: document
