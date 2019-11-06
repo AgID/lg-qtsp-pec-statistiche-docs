@@ -23,6 +23,7 @@ erogatori di servizi di PEC, Conservazione e QTSP dall’applicazione
 delle previgenti disposizionei aventi oggetto l’invio di dati
 stiatistici.
 
-.. discourse::
 
-:topic_identifier: 666
+.. forum_italia::
+   :topic_id: 6
+   :scope: document
