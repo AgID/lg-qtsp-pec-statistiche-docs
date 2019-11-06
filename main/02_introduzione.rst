@@ -46,6 +46,7 @@ Soggetti destinatari
 I soggetti destinatari delle presenti linee guida sono tutti i soggetti
 erogatori dei servizi oggetto delle presenti Linee Guida.
 
-.. discourse::
 
-:topic_identifier: 666
+.. forum_italia::
+   :topic_id: 6
+   :scope: document
