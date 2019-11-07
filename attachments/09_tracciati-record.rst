@@ -6,21 +6,7 @@ Tracciato record dei dati statistici dei Gestori PEC, Conservatori e dei Prestat
 .. important::
   Documento tecnico - Tracciato record dati statistici
 
-Versione 1.1 del 02/10/2019
-
-Sommario
---------
-
-.. toctree::
-   :maxdepth: 2
-   :name: Sommario
-   :numbered:
-
-
-* TR.1 - Tracciato dati statistici ‒ Servizio PEC
-* TR.2 - Tracciato dati statistici ‒ Indisponibilità servizio PEC
-* TR.3 - Tracciato dati statistici ‒ Servizio Conservazione
-* TR.4 - Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
+  Versione 1.1 del 02/10/2019
 
 TR.1 Tracciato dati statistici ‒ Servizio PEC
 ---------------------------------------------
