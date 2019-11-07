@@ -28,7 +28,7 @@ Sommario
 TR.1 Tracciato dati statistici ‒ Servizio PEC
 ---------------------------------------------
 
-.. note::
+.. important::
    ID statistica: **P01**
    Descrizione statistica: ``Dati statistici PEC``
    Statistica aggregata: *Sì*
@@ -57,7 +57,7 @@ VirusUscita   Nr. Virus ricevuti dai propri utenti PEC in msg da inviare        
 TR.2 Tracciato dati statistici ‒ Indisponibilità servizio PEC
 -------------------------------------------------------------
 
-.. note::
+.. important::
    ID statistica: **P02**
    Descrizione statistica: ``Dati statistici indisponibilità servizi PEC``
    Statistica aggregata: *Sì*
@@ -94,7 +94,7 @@ SLA             Rispetto degli SLA di cui all’art. 12, commi 3 e 5 del DM 2 no
 TR.3 Tracciato dati statistici ‒ Servizio Conservazione
 -------------------------------------------------------
 
-.. note::
+.. important::
    ID statistica: **C01**
    Descrizione statistica: ``Dati statistici Conservazione``
    Statistica aggregata: *Sì*
@@ -128,7 +128,7 @@ TempoMedioRipristino  Tempo medio di ripristino del servizio (Nr.minuti) per int
 TR.4 Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
 ---------------------------------------------------------------------
 
-.. note::
+.. important::
    ID statistica: **Q01**
    Descrizione statistica: ``Dati statistici QTSP``
    Statistica aggregata: *Sì*
@@ -185,27 +185,18 @@ NumGenWebQC   Certificati qualificati per siti WEB generati nel periodo di rifer
               (al 30 giugno e 31 dicembre)                                                                                                       
 ============= =============================================================================================== ======== ========== =============== =================
 
-.. [1]
-   La colonna “Filtro” individua i campi sui quali è possibile agire con
-   funzionalità di filtro e ricerca
 
-.. [2]
-   La colonna “Filtro” individua i campi sui quali è possibile agire con
-   funzionalità di filtro e ricerca
+.. [1]  La colonna “Filtro” individua i campi sui quali è possibile agire con funzionalità di filtro e ricerca.
 
-.. [3]
-   Il filtro sul campo “Durata” si intende come durata minima
+.. [2]  La colonna “Filtro” individua i campi sui quali è possibile agire con funzionalità di filtro e ricerca.
 
-.. [4]
-   La colonna “Filtro” individua i campi sui quali è possibile agire con
-   funzionalità di filtro e ricerca
+.. [3]  Il filtro sul campo “Durata” si intende come durata minima.
 
-.. [5]
-      Per GB (GigaByte) si intende 1 miliardo di byte
+.. [4]  La colonna “Filtro” individua i campi sui quali è possibile agire con funzionalità di filtro e ricerca.
 
-.. [6]
-   La colonna “Filtro” individua i campi sui quali è possibile agire con
-   funzionalità di filtro e ricerca.
+.. [5]  Per GB (GigaByte) si intende 1 miliardo di byte.
+
+.. [6]  La colonna “Filtro” individua i campi sui quali è possibile agire con funzionalità di filtro e ricerca.
 
 
 .. forum_italia::
