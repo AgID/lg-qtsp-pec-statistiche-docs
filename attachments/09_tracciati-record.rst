@@ -17,10 +17,10 @@ Sommario
    :numbered:
 
 
- * TR.1 - Tracciato dati statistici ‒ Servizio PEC
- * TR.2 - Tracciato dati statistici ‒ Indisponibilità servizio PEC
- * TR.3 - Tracciato dati statistici ‒ Servizio Conservazione
- * TR.4 - Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
+* TR.1 - Tracciato dati statistici ‒ Servizio PEC
+* TR.2 - Tracciato dati statistici ‒ Indisponibilità servizio PEC
+* TR.3 - Tracciato dati statistici ‒ Servizio Conservazione
+* TR.4 - Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
 
 TR.1 Tracciato dati statistici ‒ Servizio PEC
 ---------------------------------------------
