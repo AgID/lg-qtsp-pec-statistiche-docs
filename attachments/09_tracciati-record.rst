@@ -17,15 +17,11 @@ Sommario
    :numbered:
 
 
-:ref:`TR.1 <§TR1>` - Tracciato dati statistici ‒ Servizio PEC
+ * TR.1 - Tracciato dati statistici ‒ Servizio PEC
+ * TR.2 - Tracciato dati statistici ‒ Indisponibilità servizio PEC
+ * TR.3 - Tracciato dati statistici ‒ Servizio Conservazione
+ * TR.4 - Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
 
-:ref:`TR.2 <§TR2>` - Tracciato dati statistici ‒ Indisponibilità servizio PEC
-
-:ref:`TR.3 <§TR3>` - Tracciato dati statistici ‒ Servizio Conservazione
-
-:ref:`TR.4 <§TR4>` - Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
-
-.. _`§TR1`:
 TR.1 Tracciato dati statistici ‒ Servizio PEC
 ---------------------------------------------
 
@@ -56,7 +52,6 @@ VirusUscita   Nr. Virus ricevuti dai propri utenti PEC in msg da inviare        
 ============= =================================================================================== ======== ========== =============== =================
 
 
-.. _`§TR2`:
 TR.2 Tracciato dati statistici ‒ Indisponibilità servizio PEC
 -------------------------------------------------------------
 
@@ -93,7 +88,6 @@ SLA             Rispetto degli SLA di cui all’art. 12, commi 3 e 5 del DM 2 no
 =============== ============================================================================ ======== ========== =============== =================
 
 
-.. _`§TR3`:
 TR.3 Tracciato dati statistici ‒ Servizio Conservazione
 -------------------------------------------------------
 
@@ -127,9 +121,8 @@ TempoMedioRipristino  Tempo medio di ripristino del servizio (Nr.minuti) per int
 ===================== ========================================================================================== ======== ========== =============== =================
 
 
-.. _`§TR4`:
-   TR.4 Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
-   ---------------------------------------------------------------------
+TR.4 Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
+---------------------------------------------------------------------
 
 .. important::
    ID statistica: **Q01**
