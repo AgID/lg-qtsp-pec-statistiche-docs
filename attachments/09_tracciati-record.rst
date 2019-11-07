@@ -16,13 +16,13 @@ Sommario
    :name: Sommario
    :numbered:
 
-:ref:`TR.1 <§TR1>` Tracciato dati statistici ‒ Servizio PEC
+:ref:`TR.1 <§TR1>` - Tracciato dati statistici ‒ Servizio PEC
 
-`TR.2 \  Tracciato dati statistici ‒ Indisponibilità servizio PEC <§TR2>`__
+:ref:`TR.2 <§TR2>` - Tracciato dati statistici ‒ Indisponibilità servizio PEC
 
-`TR.3 \  Tracciato dati statistici ‒ Servizio Conservazione <§TR3>`__
+:ref:`TR.3 <§TR3>` - Tracciato dati statistici ‒ Servizio Conservazione
 
-`TR.4 \  Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP) <§TR4>`__
+:ref:`TR.4 <§TR4>` - Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
 
 .. _`§TR1`:
 TR.1 Tracciato dati statistici ‒ Servizio PEC
@@ -30,7 +30,9 @@ TR.1 Tracciato dati statistici ‒ Servizio PEC
 
 .. important::
    ID statistica: **P01**
+
    Descrizione statistica: ``Dati statistici PEC``
+
    Statistica aggregata: *Sì*
 
 ============= =================================================================================== ======== ========== =============== =================
