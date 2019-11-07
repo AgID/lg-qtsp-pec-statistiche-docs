@@ -16,6 +16,7 @@ Sommario
    :name: Sommario
    :numbered:
 
+
 :ref:`TR.1 <§TR1>` - Tracciato dati statistici ‒ Servizio PEC
 
 :ref:`TR.2 <§TR2>` - Tracciato dati statistici ‒ Indisponibilità servizio PEC
@@ -127,8 +128,8 @@ TempoMedioRipristino  Tempo medio di ripristino del servizio (Nr.minuti) per int
 
 
 .. _`§TR4`:
-TR.4 Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
----------------------------------------------------------------------
+   TR.4 Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
+   ---------------------------------------------------------------------
 
 .. important::
    ID statistica: **Q01**
