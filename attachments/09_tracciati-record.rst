@@ -16,7 +16,7 @@ Sommario
    :name: Sommario
    :numbered:
 
-`TR.1 \  Tracciato dati statistici ‒ Servizio PEC <§TR1>`__
+:ref:`TR.1 <§TR1>` Tracciato dati statistici ‒ Servizio PEC
 
 `TR.2 \  Tracciato dati statistici ‒ Indisponibilità servizio PEC <§TR2>`__
 
