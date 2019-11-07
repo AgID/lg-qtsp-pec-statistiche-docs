@@ -43,7 +43,9 @@ TR.2 Tracciato dati statistici ‒ Indisponibilità servizio PEC
 
 .. important::
    ID statistica: **P02**
+   
    Descrizione statistica: ``Dati statistici indisponibilità servizi PEC``
+   
    Statistica aggregata: *Sì*
 
 =============== ============================================================================ ======== ========== =============== =================
@@ -79,7 +81,9 @@ TR.3 Tracciato dati statistici ‒ Servizio Conservazione
 
 .. important::
    ID statistica: **C01**
+   
    Descrizione statistica: ``Dati statistici Conservazione``
+   
    Statistica aggregata: *Sì*
 
 ===================== ========================================================================================== ======== ========== =============== =================
@@ -112,7 +116,9 @@ TR.4 Tracciato dati statistici ‒ Servizi fiduciari qualificati (QTSP)
 
 .. important::
    ID statistica: **Q01**
+   
    Descrizione statistica: ``Dati statistici QTSP``
+   
    Statistica aggregata: *Sì*
 
 ============= =============================================================================================== ======== ========== =============== =================
