@@ -48,5 +48,5 @@ erogatori dei servizi oggetto delle presenti Linee Guida.
 
 
 .. forum_italia::
-   :topic_id: 6
+   :topic_id: 11994
    :scope: document
