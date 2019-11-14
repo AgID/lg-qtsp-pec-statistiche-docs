@@ -48,3 +48,7 @@ Versione Data        Determinazione Tipologia modifica
    :hidden:
 
    attachments/09_tracciati-record.rst
+
+.. forum_italia::
+   :topic_id: 11958
+   :scope: document
