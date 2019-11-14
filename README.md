@@ -5,5 +5,3 @@ La presente Linea guida – ha lo scopo di normalizzazione i dati statistici tra
 
 Link al documento *Docs Italia*	•	\ https://docs.italia.it/AgID/documenti-in-consultazione/lg-statistiche-servizi-gestori-fiduciari
 Link per commenti *Forum Italia*	•	\ https://forum.italia.it/c/documenti-in-consultazione/lg-statistiche-servizi-gestori-fiduciari
-
-La consultazione sarà attiva dal 1? novembre al 1? dicembre 2019.
