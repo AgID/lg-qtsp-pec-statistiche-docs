@@ -1,6 +1,6 @@
 document:
   type: Linee guida
-  name: Linee guida per la normalizzazione delle statistiche sui servizi erogati da gestori PEC, conservatori, prestatori di servizi fiduciari qualificati
+  name: Linee Guida per la normalizzazione dei dati statistici dei servizi erogati dai gestori PEC, dai conservatori e dai prestatori di servizi fiduciari qualificati
   short_name: Ll.gg. sulle statistiche PEC conservatori QTSP
   author: walter-arrighetti
   contributors:
@@ -13,7 +13,7 @@ document:
     - Andrea Spallacci
     - Crisina Valiante
   description: |
-    Linee guida per la normalizzazione delle statistiche sui servizi erogati da gestori PEC, conservatori, prestatori di servizi fiduciari qualificati
+    Linee Guida per la normalizzazione dei dati statistici dei servizi erogati dai gestori PEC, dai conservatori e dai prestatori di servizi fiduciari qualificati
   tags:
     - eIDAS
     - PEC
