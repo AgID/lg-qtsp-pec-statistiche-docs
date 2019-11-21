@@ -9,21 +9,8 @@ Linee Guida per la normalizzazione dei dati statistici dei servizi erogati dai G
 .. admonition:: consultation
 
    La consultazione pubblica relativa al presente documento è attiva dal 
-   **__________** al **__________**. Questo documento raccoglie il
+   **21 novembre** al **21 dicembre 2019**. Questo documento raccoglie il
    testo delle Linee guida in oggetto, disponibile per la consultazione pubblica.
-
-.. Note::
-
-   La consultazione pubblica relativa al presente documento è attiva dal 
-   **__________** al **__________**. Questo documento raccoglie il
-   testo delle Linee guida in oggetto, disponibile per la consultazione pubblica.
-
-
-======== =========== ============== =====================================
-Versione Data        Determinazione Tipologia modifica
-======== =========== ============== =====================================
-1.1      02/ott/2019                Adeguamento al formato di riferimento
-======== =========== ============== =====================================
 
 .. toctree::
    :caption: Sommario
